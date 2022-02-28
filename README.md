@@ -1,0 +1,1 @@
+# integration-mapping-output-file-validation
